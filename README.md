@@ -1,6 +1,6 @@
 # Aplicación de Clima JavaScript
 
-Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO]()
+Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://clima-javascript-project.netlify.app/)
 
 ![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/aplicacion-clima-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
