@@ -2,7 +2,7 @@
 
 Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO]()
 
-![Captura de pantalla del proyecto de Clima]()
+![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/aplicacion-clima-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
 La aplicación muestra datos en tiempo real del clima de una ciudad específica utilizando la API de OpenWeatherMap.
 
